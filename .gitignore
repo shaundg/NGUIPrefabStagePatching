@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NGUIPrefabUtilityInjection/v15
+/Library
+/Logs
+/ProjectSettings
+/Packages
+/obj/Debug
+/NGUIPrefabUtilityInjection.sln
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
