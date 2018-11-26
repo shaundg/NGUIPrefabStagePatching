@@ -1,4 +1,4 @@
-# NGUIPrefabStagePatching
+# NGUI Prefab Stage Editing 
 Hack to workaround Unity 2018.3.xb PrefabStage editing of Prefabs using NGUI UI
 
 Currently, in Unity 2018.3.0xb (beta), you're unable to properly edit Prefabs which contain NGUI-based UI (UIRect-based components).
