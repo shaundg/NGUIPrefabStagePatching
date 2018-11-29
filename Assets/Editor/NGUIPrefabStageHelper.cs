@@ -27,7 +27,7 @@ static class NGUIPrefabStageHelper
 
         // This is necessary to trigger the patching of Unity executable
         // Check this article for details: https://github.com/pardeike/Harmony/wiki/Bootstrapping
-        var harmony = HarmonyInstance.Create ("com.braceyourselfgames.phantombrigade.ngui");
+        var harmony = HarmonyInstance.Create ("REPLACE_THIS_WITH_YOUR_OWN");
         harmony.PatchAll (Assembly.GetExecutingAssembly ());
     }
 
