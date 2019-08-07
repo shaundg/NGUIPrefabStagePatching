@@ -1,4 +1,7 @@
 # NGUI Prefab Stage Editing 
+
+**** THIS IS NO LONGER NEEDED IN CURRENT NGUI AND UNITY VERSIONS - LEAVING UP FOR PEOPLE NOT ON LATEST ****
+
 Hack to workaround Unity 2018.3.012b PrefabStage editing of Prefabs using NGUI UI
 
 Currently, in Unity 2018.3.012b (beta), you're unable to properly edit Prefabs which contain NGUI-based UI (UIRect-based components).
@@ -10,3 +13,6 @@ Additionally, it patches the UIDrawCall Create method to forward UIDrawCalls int
 Feel free to reach out if you have questions - twitter @shaunpeoples
 
 Thanks to Artyom Zuev of Brace Yourself Games: https://braceyourselfgames.com/about/
+
+
+**** THIS IS NO LONGER NEEDED IN CURRENT NGUI AND UNITY VERSIONS - LEAVING UP FOR PEOPLE NOT ON LATEST ****
